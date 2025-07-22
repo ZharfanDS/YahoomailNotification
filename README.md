@@ -1,5 +1,5 @@
 # Yahoo mail Notification
-# ======================
+#
 
 *This program combines your Yahoo and Telegram accounts, so you will get email faster than your email apps.*
 
